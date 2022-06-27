@@ -1,4 +1,4 @@
-# 101 Pandas Exercises for Data Analysis
+# 101 Pandas Exercises for Data Analysis :panda_face: :bar_chart:
 
 101 Python pandas exercises designed to challenge logical muscle and to help internalize data manipulation with one of python’s most famous package for data analysis. The questions are of 3 levels of difficulties with L1 being the easiest to L3 being the hardest.
 
